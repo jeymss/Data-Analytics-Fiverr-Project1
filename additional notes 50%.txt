@@ -1,0 +1,11 @@
+Bronx County - 77 low-income and low-access tracts
+Kings County (Brooklyn) - 73 low-income and low-access tracts
+Queens County - 64 low-income and low-access tracts
+New York County (Manhattan) - 30 low-income and low-access tracts
+Erie County - 29 low-income and low-access tracts
+
+Bronx County
+Kings County
+Queens County
+New York County
+Erie County
